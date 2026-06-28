@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lineup</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; }
+    h1 { color: #0366d6; }
+  </style>
+</head>
+<body>
+  <h1>欢迎来到我的Index</h1>
+  <p>这里展示我的产品服务</p>
+  <a href="paypal.me/nazounit">立即用 PayPal 购买</a>
+</body>
+</html>
